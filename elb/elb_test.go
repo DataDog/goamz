@@ -3,8 +3,8 @@ package elb_test
 import (
 	"time"
 
-	"github.com/goamz/goamz/aws"
-	"github.com/goamz/goamz/elb"
+	"github.com/DataDog/goamz/aws"
+	"github.com/DataDog/goamz/elb"
 	. "gopkg.in/check.v1"
 )
 

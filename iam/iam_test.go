@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/goamz/goamz/aws"
-	"github.com/goamz/goamz/iam"
-	"github.com/goamz/goamz/testutil"
+	"github.com/DataDog/goamz/aws"
+	"github.com/DataDog/goamz/iam"
+	"github.com/DataDog/goamz/testutil"
 	. "gopkg.in/check.v1"
 )
 

@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/goamz/goamz/aws"
+	"github.com/DataDog/goamz/aws"
 )
 
 type ELB struct {

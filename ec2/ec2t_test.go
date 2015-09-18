@@ -5,10 +5,10 @@ import (
 	"regexp"
 	"sort"
 
-	"github.com/goamz/goamz/aws"
-	"github.com/goamz/goamz/ec2"
-	"github.com/goamz/goamz/ec2/ec2test"
-	"github.com/goamz/goamz/testutil"
+	"github.com/DataDog/goamz/aws"
+	"github.com/DataDog/goamz/ec2"
+	"github.com/DataDog/goamz/ec2/ec2test"
+	"github.com/DataDog/goamz/testutil"
 	. "gopkg.in/check.v1"
 )
 

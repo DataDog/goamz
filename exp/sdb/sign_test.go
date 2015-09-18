@@ -1,8 +1,8 @@
 package sdb_test
 
 import (
-	"github.com/goamz/goamz/aws"
-	"github.com/goamz/goamz/exp/sdb"
+	"github.com/DataDog/goamz/aws"
+	"github.com/DataDog/goamz/exp/sdb"
 	. "gopkg.in/check.v1"
 )
 
